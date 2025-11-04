@@ -1,4 +1,5 @@
 from app.main import greet
 
-def test_greet_basic():
-    assert greet("DevOps") == "Olá, DevOps!"
+
+def test_greet():
+    assert greet() == "Olá, DevOps! Bem-vindo à Aula 05."
