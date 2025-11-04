@@ -1,2 +1,1 @@
-# Versões fixas para facilitar SCA; requests numa versão desatualizada para o Dependabot sinalizar atualização.
-requests==2.19.1
+pytest
